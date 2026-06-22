@@ -1,0 +1,5 @@
+/* Sydney Guide custom styles */
+
+.md-typeset .grid.cards > ul {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
